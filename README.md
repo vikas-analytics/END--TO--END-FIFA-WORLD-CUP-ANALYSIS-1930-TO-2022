@@ -1,4 +1,5 @@
 🏆 FIFA WORLD CUP DATA ANALYSIS 1930–2022 ⚽
+
 End-to-End Data Analytics Project using Python, Pandas, Matplotlib, Seaborn & Power BI
 
 Problem Statement:
@@ -14,8 +15,8 @@ Data Collection → Data Cleaning → Data Transformation → Feature Engineerin
 
 ## 📊 Power BI Dashboard
 
-![FIFA World Cup Dashboard](<img width="1295" height="736" alt="image" src="https://github.com/user-attachments/assets/ae996564-3d67-485a-8a19-480f80b432cf" />
-)
+<img width="1295" height="736" alt="FIFA WC Dashboard Preview" src="https://github.com/user-attachments/assets/1e549a04-5d8e-4476-bbf4-0120355dfb15" />
+
 
 🛠️ Technologies Used :
 🐍 Python
