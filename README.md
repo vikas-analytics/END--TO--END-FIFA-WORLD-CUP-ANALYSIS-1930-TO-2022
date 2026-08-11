@@ -61,11 +61,10 @@ Total goals by tournament
 Goals per match
 Teams participating
 Tournament stages
+
 💡 Key Insights
 
-You can include:
-
-🇧🇷 Brazil is the most successful World Cup team by tournament wins.
+ Brazil is the most successful World Cup team by tournament wins.
 ⚽ Goals per match vary considerably across World Cup editions.
 🏆 Only a limited number of countries have won the FIFA World Cup.
 🥇 Individual awards provide additional insight into tournament-level player performance.
