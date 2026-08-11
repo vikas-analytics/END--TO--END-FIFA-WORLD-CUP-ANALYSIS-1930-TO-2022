@@ -12,6 +12,11 @@ The project follows an end-to-end data analytics workflow:
 
 Data Collection → Data Cleaning → Data Transformation → Feature Engineering → Exploratory Data Analysis → Visualization → Power BI Dashboard → Insights
 
+## 📊 Power BI Dashboard
+
+![FIFA World Cup Dashboard](<img width="1295" height="736" alt="image" src="https://github.com/user-attachments/assets/ae996564-3d67-485a-8a19-480f80b432cf" />
+)
+
 🛠️ Technologies Used :
 🐍 Python
 🐼 Pandas
@@ -45,3 +50,20 @@ Penalty Shootout
 Goals per Match
 Win Rate
 Tournament-level statistics
+
+Tournament Analysis :
+
+World Cup winners
+Runner-ups
+Third-place teams
+Total goals by tournament
+Goals per match
+Teams participating
+Tournament stages
+
+Player Awards :
+
+🥇 Golden Boot
+🧤 Golden Glove
+🏆 Golden Ball
+⭐ Player of the Tournament
