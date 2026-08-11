@@ -21,3 +21,27 @@ Data Collection → Data Cleaning → Data Transformation → Feature Engineerin
 📈 Power BI
 📓 Jupyter Notebook
 📁 CSV
+
+🔍 Analysis Performed
+
+Data Cleaning :
+
+Checked missing values
+Checked duplicate records
+Converted date columns
+Verified data types
+Handled categorical/string data
+Validated match and tournament records
+
+Feature Engineering :
+
+Total Goals
+Goal Difference
+Match Result
+Home Win / Away Win
+Draw
+Extra Time
+Penalty Shootout
+Goals per Match
+Win Rate
+Tournament-level statistics
